@@ -1,4 +1,4 @@
-package com.github.senin24.bzdu.bzdu;
+package com.github.senin24.bzdu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
