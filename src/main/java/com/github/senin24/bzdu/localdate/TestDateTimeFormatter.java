@@ -1,13 +1,12 @@
-package com.github.senin24.bzdu.localedate;
+package com.github.senin24.bzdu.localdate;
 
 import static java.util.Objects.isNull;
 
 
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
 
-public class LocaleDate {
+public class TestDateTimeFormatter {
 
   private static final DateTimeFormatter DD_MM_YYYY = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
